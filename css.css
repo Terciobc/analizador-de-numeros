@@ -1,0 +1,33 @@
+body{
+    font: normal 15pt Arial;
+    background-color: rgb(109, 109, 214);
+   
+
+}
+header{
+    text-align: center;
+    color: whitesmoke;
+}
+section{
+    padding: 15px;
+    background-color: whitesmoke;
+    width: 500px;
+    
+    margin: auto;
+    border-radius: 20px;
+    
+    
+}
+option {
+    font: bolder 10pt Arial;
+}
+select{
+    width: 150px;
+}
+footer{
+    font: normal 10pt arial;
+    font-style: italic;
+    text-align: center;
+}
+
+
